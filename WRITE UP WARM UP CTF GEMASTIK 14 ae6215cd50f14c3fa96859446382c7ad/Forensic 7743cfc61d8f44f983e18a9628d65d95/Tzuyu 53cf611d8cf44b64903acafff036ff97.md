@@ -6,11 +6,13 @@ Poin : 100
 
 Deskripsi : Temukan flag di file berikut.
 
-Hint : 
+Hint :
+
 - Zoom
 - Invert
 
-Solusi : 
+Solusi :
+
 Format flag: gemastik14{flag}
 
 ![Tzuyu%2053cf611d8cf44b64903acafff036ff97/Untitled.png](Tzuyu%2053cf611d8cf44b64903acafff036ff97/Untitled.png)

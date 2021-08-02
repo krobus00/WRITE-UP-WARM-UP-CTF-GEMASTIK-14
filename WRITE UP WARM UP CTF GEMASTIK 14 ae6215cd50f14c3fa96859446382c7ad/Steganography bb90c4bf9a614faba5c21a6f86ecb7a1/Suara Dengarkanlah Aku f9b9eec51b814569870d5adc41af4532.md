@@ -5,6 +5,7 @@ Created: July 31, 2021 6:11 PM
 Poin : 100
 
 Deskripsi : format flag untuk soal ini adalah gemastik13{flag}. Mohon maaf atas ketidaknyamanannya
+
 Solusi :
 
 Melihat spektrum audio

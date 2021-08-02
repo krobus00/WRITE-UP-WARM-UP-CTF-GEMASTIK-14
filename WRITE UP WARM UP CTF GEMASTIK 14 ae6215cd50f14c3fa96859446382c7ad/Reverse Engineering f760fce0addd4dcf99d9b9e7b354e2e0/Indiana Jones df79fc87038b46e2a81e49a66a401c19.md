@@ -5,6 +5,7 @@ Created: July 31, 2021 6:31 PM
 Poin : 100
 
 Deskripsi : Indiana Jones menemukan suatu peti harta karun yang terkunci. Untuk membukanya Indiana Jones memerlukan password yang dimasukkan ke dalam program verifikasi berikut. Bantu Indiana Jones menemukan kuncinya.
+
 Solusi :
 
 Decode file jar ke java
