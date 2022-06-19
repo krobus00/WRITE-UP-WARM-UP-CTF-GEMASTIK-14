@@ -6,7 +6,7 @@ MITY Team :
 2. Fadhlurrahman Akbar Nasution
 3. Afrizal Syahruluddin Yusuf
 
-Skor : 900 (4th place)
+Skor : 900
 
 Semua challenges terselesaikan
 
